@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Maddy-afk/LeetCode/tree/master/0016-3sum-closest) |
 | [0078-subsets](https://github.com/Maddy-afk/LeetCode/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Maddy-afk/LeetCode/tree/master/0016-3sum-closest) |
 | [0451-sort-characters-by-frequency](https://github.com/Maddy-afk/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Maddy-afk/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Maddy-afk/LeetCode/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
