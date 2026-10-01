@@ -103,8 +103,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Maddy-afk/LeetCode/tree/master/0016-3sum-closest) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Maddy-afk/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Maddy-afk/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Maddy-afk/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Maddy-afk/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
