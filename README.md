@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Maddy-afk/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Maddy-afk/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Maddy-afk/LeetCode/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/Maddy-afk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0724-find-pivot-index](https://github.com/Maddy-afk/LeetCode/tree/master/0724-find-pivot-index) |
 | [0946-validate-stack-sequences](https://github.com/Maddy-afk/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maddy-afk/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Maddy-afk/LeetCode/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Maddy-afk/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Maddy-afk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Maddy-afk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Maddy-afk/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## String
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Maddy-afk/LeetCode/tree/master/0016-3sum-closest) |
+| [0217-contains-duplicate](https://github.com/Maddy-afk/LeetCode/tree/master/0217-contains-duplicate) |
 | [0451-sort-characters-by-frequency](https://github.com/Maddy-afk/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Heap (Priority Queue)
 |  |
