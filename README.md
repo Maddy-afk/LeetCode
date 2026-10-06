@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Maddy-afk/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Maddy-afk/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Maddy-afk/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
+| [4026-maximum-gap-between-stations](https://github.com/Maddy-afk/LeetCode/tree/master/4026-maximum-gap-between-stations) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Maddy-afk/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Maddy-afk/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Maddy-afk/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [4026-maximum-gap-between-stations](https://github.com/Maddy-afk/LeetCode/tree/master/4026-maximum-gap-between-stations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Maddy-afk/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Maddy-afk/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Maddy-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [4026-maximum-gap-between-stations](https://github.com/Maddy-afk/LeetCode/tree/master/4026-maximum-gap-between-stations) |
 ## Linked List
 |  |
 | ------- |
