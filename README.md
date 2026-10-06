@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Maddy-afk/LeetCode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Maddy-afk/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Maddy-afk/LeetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/Maddy-afk/LeetCode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Maddy-afk/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maddy-afk/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Maddy-afk/LeetCode/tree/master/0118-pascals-triangle) |
+| [0509-fibonacci-number](https://github.com/Maddy-afk/LeetCode/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/Maddy-afk/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
@@ -165,9 +167,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Maddy-afk/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/Maddy-afk/LeetCode/tree/master/0509-fibonacci-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Maddy-afk/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Maddy-afk/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Maddy-afk/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
