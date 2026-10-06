@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Maddy-afk/LeetCode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Maddy-afk/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Maddy-afk/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Maddy-afk/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Maddy-afk/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Maddy-afk/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Maddy-afk/LeetCode/tree/master/0118-pascals-triangle) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Maddy-afk/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Maddy-afk/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Maddy-afk/LeetCode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Maddy-afk/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Maddy-afk/LeetCode/tree/master/0509-fibonacci-number) |
