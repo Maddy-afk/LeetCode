@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Maddy-afk/LeetCode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Maddy-afk/LeetCode/tree/master/0016-3sum-closest) |
 | [0035-search-insert-position](https://github.com/Maddy-afk/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Maddy-afk/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Maddy-afk/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Maddy-afk/LeetCode/tree/master/0118-pascals-triangle) |
 | [0946-validate-stack-sequences](https://github.com/Maddy-afk/LeetCode/tree/master/0946-validate-stack-sequences) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Maddy-afk/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Maddy-afk/LeetCode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Maddy-afk/LeetCode/tree/master/0074-search-a-2d-matrix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Maddy-afk/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Maddy-afk/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Maddy-afk/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
