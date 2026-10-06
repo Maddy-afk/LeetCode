@@ -3,7 +3,7 @@ public:
 
     int findPivot(vector<int>& nums, int index, int leftSum, int totalSum)
     {
-        if(index == nums.size())
+        if(index == nums.size()) 
             return -1;
 
         int rightSum = totalSum - leftSum - nums[index];
@@ -11,7 +11,7 @@ public:
         if(leftSum == rightSum)
             return index;
 
-        return findPivot(nums,
+        return findPivot( nums,
                          index + 1,
                          leftSum + nums[index],
                          totalSum);
