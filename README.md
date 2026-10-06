@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Maddy-afk/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Maddy-afk/LeetCode/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/Maddy-afk/LeetCode/tree/master/0118-pascals-triangle) |
+| [0724-find-pivot-index](https://github.com/Maddy-afk/LeetCode/tree/master/0724-find-pivot-index) |
 | [0946-validate-stack-sequences](https://github.com/Maddy-afk/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maddy-afk/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
@@ -119,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Maddy-afk/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Maddy-afk/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
