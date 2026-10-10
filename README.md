@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Maddy-afk/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Maddy-afk/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0946-validate-stack-sequences](https://github.com/Maddy-afk/LeetCode/tree/master/0946-validate-stack-sequences) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Maddy-afk/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Maddy-afk/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Design
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Maddy-afk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Maddy-afk/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Maddy-afk/LeetCode/tree/master/0678-valid-parenthesis-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Maddy-afk/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Maddy-afk/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Maddy-afk/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Maddy-afk/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
