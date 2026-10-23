@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Maddy-afk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0946-validate-stack-sequences](https://github.com/Maddy-afk/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Maddy-afk/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/Maddy-afk/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Maddy-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maddy-afk/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Backtracking
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Maddy-afk/LeetCode/tree/master/0054-spiral-matrix) |
 | [0946-validate-stack-sequences](https://github.com/Maddy-afk/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Maddy-afk/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1929-concatenation-of-array](https://github.com/Maddy-afk/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Maddy-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Maddy-afk/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
