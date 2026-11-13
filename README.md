@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Maddy-afk/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Maddy-afk/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Maddy-afk/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Maddy-afk/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Maddy-afk/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Maddy-afk/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Backtracking
