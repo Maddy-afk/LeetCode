@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Maddy-afk/LeetCode/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Maddy-afk/LeetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Maddy-afk/LeetCode/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Maddy-afk/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Maddy-afk/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Maddy-afk/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [4026-maximum-gap-between-stations](https://github.com/Maddy-afk/LeetCode/tree/master/4026-maximum-gap-between-stations) |
