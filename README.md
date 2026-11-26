@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Maddy-afk/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Maddy-afk/LeetCode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Maddy-afk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Maddy-afk/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0946-validate-stack-sequences](https://github.com/Maddy-afk/LeetCode/tree/master/0946-validate-stack-sequences) |
 | [1207-unique-number-of-occurrences](https://github.com/Maddy-afk/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Maddy-afk/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Maddy-afk/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Maddy-afk/LeetCode/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Maddy-afk/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Maddy-afk/LeetCode/tree/master/0875-koko-eating-bananas) |
 ## Newton's Method
 |  |
 | ------- |
